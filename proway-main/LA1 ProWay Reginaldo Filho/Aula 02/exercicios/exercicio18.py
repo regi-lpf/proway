@@ -1,0 +1,6 @@
+n1 = int(input("Insira um número: "))
+ant = int (n1 - 1)
+suc = int (n1 + 1)
+print("Antecessor: ",ant)
+print("Número: ",n1)
+print("Sucessor: ",suc)
